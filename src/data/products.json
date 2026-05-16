@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "iPhone 15 Pro",
+    "price": 25000000,
+    "stock": 50,
+    "category": "Điện thoại"
+  },
+  {
+    "id": "2",
+    "name": "MacBook Air M3",
+    "price": 32000000,
+    "stock": 30,
+    "category": "Laptop"
+  },
+  {
+    "id": "1778898582420",
+    "name": "iPhone 16 Pro",
+    "price": 30000000,
+    "stock": 35,
+    "category": "Điện thoại",
+    "createdAt": "2026-05-16T02:29:42.420Z"
+  },
+  {
+    "id": "1778900530444",
+    "name": "Áo thun",
+    "price": 150000,
+    "stock": 50,
+    "category": "Thời trang",
+    "createdAt": "2026-05-16T03:02:10.444Z"
+  }
+]

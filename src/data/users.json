@@ -1,0 +1,29 @@
+[
+  {
+    "id": "100",
+    "name": "Admin",
+    "email": "admin@gmail.com",
+    "password": "4ad12e4ceece845322659c76ade65a6773d8b73d637b0c363e78d5737cebdabb60d0c7fdeeacc6b168dc4d154dbfeccccbb0e7cfa0f534a13d89ba80bd8c83f7",
+    "salt": "7997c65ef3b94ab6aceed442cae88e2d",
+    "role": "admin",
+    "createdAt": "2026-05-16T02:26:12.789Z"
+  },
+  {
+    "id": "101",
+    "name": "Nguyễn Văn A",
+    "email": "a@gmail.com",
+    "password": "4ad12e4ceece845322659c76ade65a6773d8b73d637b0c363e78d5737cebdabb60d0c7fdeeacc6b168dc4d154dbfeccccbb0e7cfa0f534a13d89ba80bd8c83f7",
+    "salt": "7997c65ef3b94ab6aceed442cae88e2d",
+    "role": "user",
+    "createdAt": "2026-05-16T02:26:12.789Z"
+  },
+  {
+    "id": "1778901118304",
+    "name": "Nguyễn Văn B",
+    "email": "b@gmail.com",
+    "password": "616302900c7b55d8ba5e80723147e5fe71c700116e2040bf866320b30364756260c2beb9dba86a2cc66701d53497dab1877e24da21e91dcaa82821f09f56c93e",
+    "salt": "c8276f020f1dffd8ca6132e4d835747e",
+    "role": "user",
+    "createdAt": "2026-05-16T03:11:58.304Z"
+  }
+]
